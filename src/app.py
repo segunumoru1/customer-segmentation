@@ -5,8 +5,8 @@ import plotly.express as px
 
 @st.cache_resource
 def load_model_and_preprocessor():
-    preprocessor = joblib.load('artifacts/preprocessor.pkl')
-    model = joblib.load('artifacts/kmeans_model.pkl')
+    preprocessor = joblib.load('./artifacts/preprocessor.pkl')
+    model = joblib.load('./artifacts/kmeans_model.pkl')
     return preprocessor, model
 
 preprocessor, model = load_model_and_preprocessor()
