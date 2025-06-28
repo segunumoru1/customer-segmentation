@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/SEGUN/customer%20segmentation/src/mlruns/806028831445403579/fa71cc6fd2fc4dc0b8eacef40912a926/artifacts
+end_time: 1750615249443
+entry_point_name: ''
+experiment_id: '806028831445403579'
+lifecycle_stage: active
+run_id: fa71cc6fd2fc4dc0b8eacef40912a926
+run_name: fearless-fowl-757
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750615220751
+status: 3
+tags: []
+user_id: SEGUN

@@ -1,0 +1,14 @@
+artifact_path: file:///C:/Users/SEGUN/customer%20segmentation/src/mlruns/806028831445403579/models/m-ba6a1d5dd00948c98cab900f72d1fbc5/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.0
+model_id: m-ba6a1d5dd00948c98cab900f72d1fbc5
+model_size_bytes: 682
+model_uuid: m-ba6a1d5dd00948c98cab900f72d1fbc5
+prompts: null
+run_id: c2ac47ae28f34de9a00f52f816a844dc
+utc_time_created: '2025-06-22 18:07:24.769480'

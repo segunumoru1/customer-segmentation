@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/SEGUN/customer%20segmentation/src/mlruns/806028831445403579/models/m-4a2c35a309c141238e76ee59edd51594/artifacts
+creation_timestamp: 1750615238011
+experiment_id: '806028831445403579'
+last_updated_timestamp: 1750615248500
+model_id: m-4a2c35a309c141238e76ee59edd51594
+model_type: null
+name: preprocessor
+source_run_id: fa71cc6fd2fc4dc0b8eacef40912a926
+status: 2
+status_message: null

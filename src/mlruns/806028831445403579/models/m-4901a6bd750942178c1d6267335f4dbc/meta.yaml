@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/SEGUN/customer%20segmentation/src/mlruns/806028831445403579/models/m-4901a6bd750942178c1d6267335f4dbc/artifacts
+creation_timestamp: 1750615628982
+experiment_id: '806028831445403579'
+last_updated_timestamp: 1750615644548
+model_id: m-4901a6bd750942178c1d6267335f4dbc
+model_type: null
+name: kmeans_model
+source_run_id: c2ac47ae28f34de9a00f52f816a844dc
+status: 2
+status_message: null

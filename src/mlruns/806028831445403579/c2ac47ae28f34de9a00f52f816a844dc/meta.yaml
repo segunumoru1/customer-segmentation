@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/SEGUN/customer%20segmentation/src/mlruns/806028831445403579/c2ac47ae28f34de9a00f52f816a844dc/artifacts
+end_time: 1750615654432
+entry_point_name: ''
+experiment_id: '806028831445403579'
+lifecycle_stage: active
+run_id: c2ac47ae28f34de9a00f52f816a844dc
+run_name: nebulous-deer-981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750615626242
+status: 3
+tags: []
+user_id: SEGUN
